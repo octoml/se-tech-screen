@@ -1,6 +1,23 @@
 # Technical Screen | Build a Demo App with Streamlit, Powered by OctoAI 🦑
 __Time Budget__: 2-4 hours
 
+**Table of Contents**
+
+- [Instructions](#Instructions)
+- [Getting Started](#Getting-Started)
+  - [OctoAI Docs](#OctoAI-Docs)
+  - [Get an Application Token](#Get-an-Application-Token)
+  - [Demo Image Generation Apps (examples)](#Demo-Image-Generation-Apps-examples)
+- [Basic Image Gen Examples](#Basic-Image-Gen-Examples)
+  - [Generating with Text-to-Image](#Generating-with-Text-to-Image)
+  - [Text-to-image | Customization](#Text-to-image--Customization)
+    - [Apply a style Preset](#Apply-a-style-Preset)
+    - [Apply a LoRA](#Apply-a-LoRA)
+  - [Text-to-image | Code building blocks](#Text-to-image--Code-building-blocks)
+- [Bonus Points](#Bonus-Points)
+  - [Upload and apply a custom asset](#Upload-and-apply-a-custom-asset)
+  - [Use other models in your app](#Use-other-models-in-your-app)
+
 ## Instructions 🖥️ 👓 📑
 Build a demo python application for a prospect or customer that demonstrates the power and value of OctoAI's image generation vertical solution, powered by SDXL 1.0. 
 
@@ -59,10 +76,11 @@ pip install -r requirements.txt # installs streamlit, octoai-sdk, and pydantic
 streamlit run eg_app.py
 ```
 
-## OctoAI's Image Generation Vertical Solution: Setup
+## Basic Image Gen Examples
 
-### Basic Usage using Text-to-Image
+### Generating with Text-to-Image
 To generate your first image, follow these steps:
+
 * Login to OctoAI (https://octoai.cloud) and click "Try Image Gen Solution". This will launch a Demo page for gernerating SDXL images from text prompts. 
 * Click the "Generate" button to generate an image from the default prompt.
 * Edit the prompt to generate different images. 
