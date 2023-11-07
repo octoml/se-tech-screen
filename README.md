@@ -64,8 +64,8 @@ OCTOAI_TOKEN=<my_new_token>
 ### Demo Image Generation Apps (examples)
  Our Developer Experience team has been steadily building out new demo apps, many of which are directed at creative and brand-focused content for e-commerce use cases. The Lightbox App (below) combines the best of OctoAI and the Image Generation solution to deliver a compelling e-commerce solution. The Stable Diffusion community at large is another great resource for inspiration. I've included some examples to get you started.
 
-> Product-placement Lightbox App - 
-https://www.loom.com/share/778a0bbf5d69474a8faf19d41e2fcb19
+> <a href="https://www.loom.com/share/778a0bbf5d69474a8faf19d41e2fcb19"> Product-placement Lightbox App</a>
+
 
 > SDXL 1.0 Community Examples
 > * <a href="https://www.youtube.com/watch?v=LBTAT5WhFko">Create Ads with Automatic 1111+SDXL</a> 
