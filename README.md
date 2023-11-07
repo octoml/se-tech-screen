@@ -40,10 +40,12 @@ When you are finished, please save and check-in your application code (as a git 
 
 ## Getting Started
 ### Create an OctoAI Account
-* Go to <a hre="https:octoai.cloud">octoai.cloud</a> and create a user to get started.
+
+
+* Go to [octoai.cloud ](https://octoai.cloud/docs) and create a user to get started.
 *  Most of the tools you will need to complete this exercise can be found within the *Image Generation Solution* section of the platform, which can be accessed via the dropdown at the top of the page. 
 
-> __NOTE__: We provide all users with free credit to get started. If you hit a limit, let us know, and we will lift the cap for you. 😎
+> __NOTE__: We provide all new customers and users with free credit to get started. If you hit a limit, let us know, and we will lift the cap for you. 😎
 
 ### OctoAI Docs 
 * [OctoAI Docs](https://docs.octoai.cloud/docs)
